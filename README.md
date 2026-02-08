@@ -49,7 +49,11 @@ are available in an area, as well as their size and positions.
 ## Screenshots
 
 Screenshots were taken of Cubiomes Viewer v4.0.
+screenshot of macOS Tahoe
+![seeds](etc/screenshot_macos
+"Screenshot macOS")
 
+screenshots of not-macOS
 ![seeds](etc/screenshot_seeds-fs8.png
 "Searching for a quad-hut near a stronghold with a good biome variety")
 
