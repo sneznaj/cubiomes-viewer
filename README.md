@@ -16,7 +16,7 @@ generation and structure maps, use tools such as [ChunkBase](https://www.chunkba
 
 ## Download
 
-Non-PC platforms, such as macOS, are formally supported, and you can downolad
+Non-PC platforms, such as macOS, are formally supported, and you can download
 https://github.com/sneznaj/cubiomes-viewer/releases/tag/macos
 
 for Non-Macos platforms, such as Windows and linux i created files too though i have not tested them as i have a mac.  
