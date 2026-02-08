@@ -27,15 +27,8 @@ For Arch Linux users, the tool may be found in the
 [AUR](https://aur.archlinux.org/packages/cubiomes-viewer) thanks to
 [JakobDev](https://github.com/JakobDev).
 
-Non-PC platforms, such as macOS, are not formally supported, but you can check
-[here](https://github.com/Cubitect/cubiomes-viewer/issues/107) for more
-information on this issue.
-
-
-## Build from source
-
-Build instructions can be found in the [buildguide](buildguide.md).
-
+Non-PC platforms, such as macOS, are formally supported, and you can downolad
+https://github.com/sneznaj/cubiomes-viewer/releases/tag/macos
 
 ## Basic feature overview
 
