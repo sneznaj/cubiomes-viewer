@@ -5,37 +5,18 @@ seed-finding utilities provided by [cubiomes](https://github.com/Cubitect/cubiom
 and a map viewer for the Minecraft biomes and structure generation.
 
 The tool is designed for high performance and supports Minecraft Java Edition
-main releases up to 1.21.
+main releases up to 1.21  and bedrock 1.16 and 1.17. 
 
-**Minecraft Bedrock Edition:** The viewer and seed finder use Java Edition world
-generation only. You can select "Bedrock Edition" in the UI to indicate you are
-interested in Bedrock seeds; the map will still show Java generation for the
-same seed value (worlds differ between editions). For Bedrock-specific world
-generation and structure maps, use tools such as [ChunkBase](https://www.chunkbase.com/apps/seed-map).
-
-
+For  other Bedrock version world 
+generation and structure maps, use tools such as [ChunkBase](https://www.chunkbase.com/apps/seed-map) but note that for stronghold locations chunkbase is wrong while this program is right.
 ## Download
 
-Precompiled binaries can be found in the [releases section](https://github.com/Cubitect/cubiomes-viewer/releases)
-on GitHub. This includes single file executables, which are statically
-linked against [Qt](https://www.qt.io).
+Non-PC platforms, such as macOS, are formally supported, and you can download
+https://github.com/sneznaj/cubiomes-viewer/releases/tag/macos
 
-A Flatpak for the tool is available on
-[Flathub](https://flathub.org/apps/details/com.github.cubitect.cubiomes-viewer).
-
-For Arch Linux users, the tool may be found in the
-[AUR](https://aur.archlinux.org/packages/cubiomes-viewer) thanks to
-[JakobDev](https://github.com/JakobDev).
-
-Non-PC platforms, such as macOS, are not formally supported, but you can check
-[here](https://github.com/Cubitect/cubiomes-viewer/issues/107) for more
-information on this issue.
-
-
-## Build from source
-
-Build instructions can be found in the [buildguide](buildguide.md).
-
+for Non-Macos platforms, such as Windows and linux i created files too though i have not tested them as i have a mac.  
+https://github.com/sneznaj/cubiomes-viewer/releases/tag/not-macos
+if these dont work then get the java edition only program from https://github.com/Cubitect/cubiomes-viewer/releases
 
 ## Basic feature overview
 
@@ -68,7 +49,11 @@ are available in an area, as well as their size and positions.
 ## Screenshots
 
 Screenshots were taken of Cubiomes Viewer v4.0.
+screenshot of macOS Tahoe
+![seeds](etc/screenshot_macos
+"Screenshot macOS")
 
+screenshots of not-macOS
 ![seeds](etc/screenshot_seeds-fs8.png
 "Searching for a quad-hut near a stronghold with a good biome variety")
 
@@ -108,6 +93,7 @@ The main code is under the GPLv3, see [LICENSE](LICENSE), while other
 components are released under their respective author licenses:
 
 - Biome and structure generation from cubiomes, licensed under MIT.
+- bedrock support from https://github.com/reedacartwright/cubiomes/tree/bedrock
 - Cross platform [Qt](https://www.qt.io/licensing) GUI toolkit, available under (L)GPLv3.
 - Dark Qt theme derived from [QDarkStyleSheet](https://github.com/ColinDuquesnoy/QDarkStyleSheet), licensed under MIT.
 - Biome colors and icons are inspired by [Amidst](https://github.com/toolbox4minecraft/amidst), licensed under GPLv3.
