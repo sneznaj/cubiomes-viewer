@@ -16,19 +16,12 @@ generation and structure maps, use tools such as [ChunkBase](https://www.chunkba
 
 ## Download
 
-Precompiled binaries can be found in the [releases section](https://github.com/Cubitect/cubiomes-viewer/releases)
-on GitHub. This includes single file executables, which are statically
-linked against [Qt](https://www.qt.io).
-
-A Flatpak for the tool is available on
-[Flathub](https://flathub.org/apps/details/com.github.cubitect.cubiomes-viewer).
-
-For Arch Linux users, the tool may be found in the
-[AUR](https://aur.archlinux.org/packages/cubiomes-viewer) thanks to
-[JakobDev](https://github.com/JakobDev).
-
 Non-PC platforms, such as macOS, are formally supported, and you can downolad
 https://github.com/sneznaj/cubiomes-viewer/releases/tag/macos
+
+for Non-Macos platforms, such as Windows and linux i created files too though i have not tested them as i have a mac.  
+https://github.com/sneznaj/cubiomes-viewer/releases/tag/not-macos
+if these dont work then get the java edition only program from https://github.com/Cubitect/cubiomes-viewer/releases
 
 ## Basic feature overview
 
