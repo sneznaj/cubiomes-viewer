@@ -8,7 +8,7 @@ The tool is designed for high performance and supports Minecraft Java Edition
 main releases up to 1.21  and bedrock 1.16 and 1.17. 
 
 For  other Bedrock version world 
-generation and structure maps, use tools such as [ChunkBase](https://www.chunkbase.com/apps/seed-map) but note that for stronghold locations chunbkbase is wrong while this program is right.
+generation and structure maps, use tools such as [ChunkBase](https://www.chunkbase.com/apps/seed-map) but note that for stronghold locations chunkbase is wrong while this program is right.
 ## Download
 
 Non-PC platforms, such as macOS, are formally supported, and you can download
