@@ -94,6 +94,7 @@ The main code is under the GPLv3, see [LICENSE](LICENSE), while other
 components are released under their respective author licenses:
 
 - Biome and structure generation from cubiomes, licensed under MIT.
+- bedrock support from https://github.com/reedacartwright/cubiomes/tree/bedrock
 - Cross platform [Qt](https://www.qt.io/licensing) GUI toolkit, available under (L)GPLv3.
 - Dark Qt theme derived from [QDarkStyleSheet](https://github.com/ColinDuquesnoy/QDarkStyleSheet), licensed under MIT.
 - Biome colors and icons are inspired by [Amidst](https://github.com/toolbox4minecraft/amidst), licensed under GPLv3.
