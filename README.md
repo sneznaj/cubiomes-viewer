@@ -10,10 +10,8 @@ main releases up to 1.21  and bedrock 1.16 and 1.17.
 **Minecraft Bedrock Edition:** The viewer and seed finder use Java Edition world
 generation only. You can select "Bedrock Edition" in the UI to indicate you are
 interested in Bedrock seeds; the map will still show Java generation for the
-same seed value (worlds differ between editions). For Bedrock-specific world
-generation and structure maps, use tools such as [ChunkBase](https://www.chunkbase.com/apps/seed-map).
-
-
+same seed value (worlds differ between editions). For  other Bedrock version  orld 
+generation and structure maps, use tools such as [ChunkBase](https://www.chunkbase.com/apps/seed-map) but note that for stronghold locations chunbkbase is wrong while this program is right.
 ## Download
 
 Non-PC platforms, such as macOS, are formally supported, and you can download
