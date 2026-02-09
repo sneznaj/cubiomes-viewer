@@ -9,14 +9,13 @@ main releases up to 1.21  and bedrock 1.16 and 1.17.
 
 For  other Bedrock version world 
 generation and structure maps, use tools such as [ChunkBase](https://www.chunkbase.com/apps/seed-map) but note that for stronghold locations chunkbase is wrong while this program is right.
+
 ## Download
 
-Non-PC platforms, such as macOS, are formally supported, and you can download
+Non-PC platforms, such as macOS, are formally supported, and you can download the .dmg at
 https://github.com/sneznaj/cubiomes-viewer/releases/tag/macos
 
-for Non-Macos platforms, such as Windows and linux i created files too though i have not tested them as i have a mac.  
-https://github.com/sneznaj/cubiomes-viewer/releases/tag/not-macos
-if these dont work then get the java edition only program from https://github.com/Cubitect/cubiomes-viewer/releases
+Non-Macos platforms, such as Windows and linux are formally supported you just need to download the source code and make it run somehow.
 
 ## Basic feature overview
 
