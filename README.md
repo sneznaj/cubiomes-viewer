@@ -49,7 +49,7 @@ are available in an area, as well as their size and positions.
 
 Screenshots were taken of Cubiomes Viewer v4.0.
 screenshot of macOS Tahoe
-![seeds](etc/screenshot_macos
+![seeds](etc/screenshot_macos.png
 "Screenshot macOS")
 
 screenshots of not-macOS
